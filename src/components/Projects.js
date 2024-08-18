@@ -2,6 +2,9 @@ import React from 'react';
 import projectsData from '../data/projects.json';
 
 function Projects() {
+  if (projectsData.length === 0) {
+    return null;
+  }
   return (
     <section id="projects">
       <h2>Projects</h2>

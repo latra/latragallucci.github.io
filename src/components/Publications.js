@@ -2,6 +2,10 @@ import React from 'react';
 import publicationsData from '../data/publications.json';
 
 function Publications() {
+  if (publicationsData.length === 0) {
+    return null;
+  }
+
   return (
     <section id="publications">
       <h2>Publications</h2>
