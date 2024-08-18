@@ -1,34 +1,18 @@
 [
   {
-    "degree": "Doctor of Philosophy",
-    "fieldOfStudy": "Bioinformatics",
-    "university": "Universitat Autònoma de Barcelona",
-    "startDate": "Sep 2022",
-    "endDate": "Present",
-    "logo": "uab.jpeg"
-  },
-  {
-    "degree": "Master's degree",
+    "degree": "Bachelor's degree",
     "fieldOfStudy": "Computer Engineering",
     "university": "Universitat de Lleida",
-    "startDate": "Sep 2019",
-    "endDate": "Jun 2022",
-    "logo": "udl.jpeg"
-  },
-  {
-    "degree": "Bachelor's degree",
-    "fieldOfStudy": "Business Administration and Management",
-    "university": "Universitat Oberta de Catalunya",
-    "startDate": "Sep 2016",
+    "startDate": "Sep 2017",
     "endDate": "Jun 2021",
-    "logo": "uoc.jpeg"
+    "logo": "udl.jpeg"
   },
   {
-    "degree": "Bachelor's degree",
-    "fieldOfStudy": "Computer Engineering",
-    "university": "Universitat de Lleida",
-    "startDate": "Sep 2015",
-    "endDate": "Jun 2019",
-    "logo": "udl.jpeg"
+    "degree": "Asociate Cloud Engineer",
+    "fieldOfStudy": "",
+    "university": "Google Cloud Platform",
+    "startDate": "2022",
+    "endDate": "",
+    "logo": "gcp.png"
   }
 ]

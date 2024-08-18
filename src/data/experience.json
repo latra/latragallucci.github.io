@@ -1,23 +1,30 @@
 [
   {
-    "jobTitle": "Doctoral Researcher",
-    "company": "Barcelona Institute for Global Health (ISGlobal)",
-    "startDate": "Sep 2022",
+    "jobTitle": "Software Engineer for Applied Artificial Intelligence Research",
+    "company": "Eurecat Technology Center of Catalonia",
+    "startDate": "May 2022",
     "endDate": "Present",
-    "logo": "isglobal.jpeg"
+    "logo": "eurecat.png"
   },
   {
     "jobTitle": "Associate Professor",
     "company": "Universitat de Lleida",
-    "startDate": "Sep 2020",
+    "startDate": "Sep 2022",
     "endDate": "Present",
     "logo": "udl.jpeg"
   },
   {
-    "jobTitle": "Research Assistant",
-    "company": "Universitat de Lleida",
-    "startDate": "Jun 2020",
-    "endDate": "Sep 2020",
-    "logo": "udl.jpeg"
+    "jobTitle": "Technical Support Representative for Google Cloud Platform",
+    "company": "Webhelp",
+    "startDate": "Aug 2021",
+    "endDate": "May 2022",
+    "logo": "webhelp.jpg"
+  },
+  {
+    "jobTitle": "System Administrator",
+    "company": "Lleida.net",
+    "startDate": "Aug 2020",
+    "endDate": "Aug 2021",
+    "logo": "lleidanet.jpeg"
   }
 ]
