@@ -23,12 +23,12 @@ function Header() {
           <div className="social-links">
             {aboutData.linkedin && (
               <a href={`https://www.linkedin.com/in/${aboutData.linkedin}`} target="_blank" rel="noopener noreferrer">
-                <i className="fab fa-linkedin"></i> <span className="link-text">/in/{aboutData.linkedin}</span>
+                <i className="fab fa-linkedin"></i> <span className="link-text">{aboutData.linkedin}</span>
               </a>
             )}
             {aboutData.github && (
               <a href={`https://github.com/${aboutData.github}`} target="_blank" rel="noopener noreferrer">
-                <i className="fab fa-github"></i> <span className="link-text">/{aboutData.github}</span>
+                <i className="fab fa-github"></i> <span className="link-text">{aboutData.github}</span>
               </a>
             )}
             {aboutData.orcid && (

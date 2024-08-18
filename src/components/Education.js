@@ -15,11 +15,19 @@ function Education() {
             />
           )}
           <div className="entry-content">
-            <h3 className="entry-title">{`${edu.degree} in ${edu.fieldOfStudy}`}</h3>
+          <h3 className="entry-title">
+              {edu.fieldOfStudy 
+                ? `${edu.degree} in ${edu.fieldOfStudy}` 
+                : edu.degree}
+            </h3>
             <p className="entry-subtitle">{edu.university}</p>
-            {edu.description && <p className="entry-description">{edu.description}</p>}
+              {edu.description && <p className="entry-description">{edu.description}</p>}
           </div>
-          <span className="entry-date">{edu.startDate} - {edu.endDate || 'Present'}</span>
+          <span className="entry-date">
+          {edu.endDate 
+                ? `${edu.startDate} - ${edu.endDate || 'Present'}` 
+                : edu.startDate}
+                </span>
         </div>
       ))}
     </section>
