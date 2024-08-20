@@ -148,7 +148,7 @@ h2 {
   flex-wrap: nowrap;
 }
 .entry {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 
   display: flex;
   align-items: center;
@@ -185,7 +185,7 @@ h2 {
 }
 
 .entry-description {
-  margin: 1px 0;
+  margin: 2px 0;
   text-align: justify;
   font-size: 14px;
   margin-right: 10px;
@@ -213,6 +213,16 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+.global_entry {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Espacio entre las entradas */
+}
+
+
+.entry-data {
+  flex-grow: 1; /* Ocupa todo el espacio restante */
 }
 
 @media (max-width: 768px) {

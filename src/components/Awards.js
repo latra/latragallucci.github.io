@@ -5,9 +5,10 @@ function Awards() {
   if (awardsData.length === 0) {
     return null;
   }
+  
   return (
     <section id="awards">
-      <h2>Awards</h2>
+      <h2>Hackathon Awards</h2>
       {awardsData.map((award, index) => (
         <div className="big_entry" key={index}>
           <div className="internal_entry">
