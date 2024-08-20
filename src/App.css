@@ -142,9 +142,19 @@ h2 {
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
-
-.entry {
+.internal_entry {
   display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.entry {
+  margin-bottom: 15px;
+
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.big_entry {
   margin-bottom: 15px;
   align-items: center;
   flex-wrap: nowrap;

@@ -25,7 +25,7 @@ function Projects() {
               </p>
             )}
           </div>
-          {project.date && <span className="entry-date">{project.date}</span>}
+
         </div>
       ))}
     </section>
