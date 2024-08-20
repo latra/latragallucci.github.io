@@ -4,7 +4,7 @@
         "event": "HackUPC 2023",
         "date": "May 2023",
         "challenge": "Vueling Flight Fest",
-        "description": "A multiplatform videogame app created using unity and connected with a LAN server for enhance the flight experience.",
+        "description": "A cutting-edge multiplatform video game application developed using Unity. Designed to enhance the flight experience, the game connects with a local LAN server, enabling real-time multiplayer interactions. The app delivers an engaging and entertaining journey for passengers, transforming traditional in-flight entertainment into a dynamic and interactive experience. ",
         "link": "https://devpost.com/software/vueling-party-appventure"
     },
     {
@@ -12,7 +12,7 @@
         "event": "HackUPC 2021",
         "date": "May 2021",
         "challenge": "Infojobs Challenge",
-        "description": "A web application to provide a new way to explore the head hunting in companies.",
+        "description": "JobCall is an innovative web application created to revolutionize the headhunting process for companies. By offering a fresh approach to job exploration, it bridges the gap between recruiters and potential candidates. The platform facilitates a more dynamic and engaging recruitment experience, making it easier for companies to identify and connect with top talent.",
         "link": "https://devpost.com/software/jobcall"
     },
     {
@@ -20,7 +20,7 @@
         "event": "HackUPC 2019",
         "date": "Oct 2019",
         "challenge": "Restb.ai Challenge",
-        "description": "An application to explore furnitures for your house based on image recognition.",
+        "description": "HomeInMind is a forward-thinking application designed to help users explore and select furniture for their homes using advanced image recognition technology. This project redefines the home decoration process by allowing users to visualize and match furniture pieces with their interior spaces, ensuring a perfect fit every time.",
         "link": "https://devpost.com/software/homeinmind"
     },
     {
@@ -28,7 +28,7 @@
         "event": "UCODE 2019",
         "date": "Mar 2019",
         "challenge": "by Adidas",
-        "description": "A digital trainer for boxing.",
+        "description": "ePunch is a digital training application specifically tailored for boxing enthusiasts. The app acts as a virtual trainer, providing real-time feedback and tailored exercises to help users improve their boxing skills. With this innovative tool, users can enhance their training sessions, making them more effective and personalized, even without access to a physical coach.",
         "link": ""
     }
 ]
