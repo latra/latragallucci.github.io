@@ -1,0 +1,18 @@
+[
+  {
+    "associationName": "LleidaHack",
+    "role": "President",
+    "startDate": "Jan 2018",
+    "endDate": "Jun 2022",
+    "logo": "lleidahack.png",
+    "description": "LleidaHack is a youth association in Spain promoting technology and \"geek\" culture through events like HackEPS, a 24-hour hackathon, and various tech workshops and meetups."
+  },
+  {
+    "associationName": "IAESTE Lleida",
+    "role": "Treasury",
+    "startDate": "Sep 2019",
+    "endDate": "Jun 2021",
+    "logo": "iaeste.png",
+    "description": "IAESTE Lleida facilitates international internships for technical students, enhancing their professional skills and cultural awareness through practical experience in global work environments, fostering academic and career development."
+  }
+]
