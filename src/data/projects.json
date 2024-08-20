@@ -9,4 +9,4 @@
         "description": "An infrastructure to fetch, store, and display data from draftlol.dawe.gg, creating custom overlays to enhance League of Legends esports streams. Includes backend API management and a React-based UI for visualizing draft and match data.",
         "code": "https://github.com/W2Avalanche/w2a-lol"
     }
-]
+]   
