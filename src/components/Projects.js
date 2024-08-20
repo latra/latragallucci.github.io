@@ -19,6 +19,11 @@ function Projects() {
                 <strong>Website:</strong> <a href={project.link} target="_blank" rel="noopener noreferrer">{project.link.replace(/^https?:\/\//, '')}</a>
               </p>
             )}
+            {project.code && (
+              <p className="entry-description">
+                <strong>Source code:</strong> <a href={project.code} target="_blank" rel="noopener noreferrer">{project.code.replace(/^https?:\/\//, '')}</a>
+              </p>
+            )}
           </div>
           {project.date && <span className="entry-date">{project.date}</span>}
         </div>

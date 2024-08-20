@@ -1,2 +1,12 @@
 [
+    {
+        "name": "AuDub Platform",
+        "description": "A platform designed for the automatic dubbing of videos, utilizing various AI tools and algorithms to transcribe, translate, dub, and clone voices from provided videos. This platform aims to streamline and automate the entire dubbing process, ensuring high-quality results with minimal human intervention.",
+        "code": "https://github.com/latra/AUDub-Microservices"
+    },
+    {
+        "name": "eSports Dawe",
+        "description": "An infrastructure to fetch, store, and display data from draftlol.dawe.gg, creating custom overlays to enhance League of Legends esports streams. Includes backend API management and a React-based UI for visualizing draft and match data.",
+        "code": "https://github.com/W2Avalanche/w2a-lol"
+    }
 ]
