@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Vueling Party Appventure",
+        "event": "HackUPC 2023",
+        "challenge": "Vueling Flight Fest",
+        "prizes": ["1st Place","HackUPC 2nd Place"],
+        "description": "A multiplatform videogame app created using unity and connected with a LAN server for enhance the flight experience.",
+        "link": "https://devpost.com/software/vueling-party-appventure"
+    }
+]
