@@ -177,6 +177,7 @@ h2 {
 .entry-description {
   margin: 1px 0;
   font-size: 14px;
+  margin-right: 10px;
 }
 
 .entry-date {
@@ -186,7 +187,13 @@ h2 {
   align-self: flex-start;
   padding-left: 10px;
 }
-
+.project-url {
+  text-align: right;
+  font-size: 14px;
+  white-space: nowrap;
+  align-self: flex-start;
+  padding-left: 10px;
+}
 a {
   color: #000;
   text-decoration: none;

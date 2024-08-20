@@ -15,7 +15,7 @@ function Education() {
             />
           )}
           <div className="entry-content">
-          <h3 className="entry-title">
+            <h3 className="entry-title">
               {edu.fieldOfStudy 
                 ? `${edu.degree} in ${edu.fieldOfStudy}` 
                 : edu.degree}
