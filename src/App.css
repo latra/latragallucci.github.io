@@ -176,6 +176,7 @@ h2 {
 
 .entry-description {
   margin: 1px 0;
+  text-align: justify;
   font-size: 14px;
   margin-right: 10px;
 }
