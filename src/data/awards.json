@@ -2,9 +2,33 @@
     {
         "name": "Vueling Party Appventure",
         "event": "HackUPC 2023",
+        "date": "May 2023",
         "challenge": "Vueling Flight Fest",
-        "prizes": ["1st Place","HackUPC 2nd Place"],
         "description": "A multiplatform videogame app created using unity and connected with a LAN server for enhance the flight experience.",
         "link": "https://devpost.com/software/vueling-party-appventure"
+    },
+    {
+        "name": "JobCall",
+        "event": "HackUPC 2021",
+        "date": "May 2021",
+        "challenge": "Infojobs Challenge",
+        "description": "A web application to provide a new way to explore the head hunting in companies.",
+        "link": "https://devpost.com/software/jobcall"
+    },
+    {
+        "name": "HomeInMind",
+        "event": "HackUPC 2019",
+        "date": "Oct 2019",
+        "challenge": "Restb.ai Challenge",
+        "description": "An application to explore furnitures for your house based on image recognition.",
+        "link": "https://devpost.com/software/homeinmind"
+    },
+    {
+        "name": "ePunch",
+        "event": "UCODE 2019",
+        "date": "Mar 2019",
+        "challenge": "by Adidas",
+        "description": "A digital trainer for boxing.",
+        "link": ""
     }
 ]
