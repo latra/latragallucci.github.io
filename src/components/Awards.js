@@ -19,7 +19,7 @@ function Awards() {
               </p>
               <p className="entry-description">
               {award.link && (
-              <p className="entry-project-link">
+              <p className="project-url">
                 <b>Project:</b> <a href={award.link} target="_blank" rel="noopener noreferrer">
                   {award.link.replace(/^https?:\/\//, '')}
                 </a>
@@ -28,7 +28,7 @@ function Awards() {
               </p>
             </div>
           </div>
-          <div className="project-url">
+          <div className="entry-date">
             {award.date}<br></br><br></br>
           </div>
         </div>

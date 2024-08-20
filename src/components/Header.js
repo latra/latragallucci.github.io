@@ -31,6 +31,11 @@ function Header() {
                 <i className="fab fa-github"></i> <span className="link-text">{aboutData.github}</span>
               </a>
             )}
+            {aboutData.devpost && (
+              <a href={`https://devpost.com/${aboutData.devpost}`} target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-dev"></i> <span className="link-text">{aboutData.devpost}</span>
+              </a>
+            )}
             {aboutData.orcid && (
               <a href={`https://orcid.org/${aboutData.orcid}`} target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-orcid"></i> <span className="link-text">{aboutData.orcid}</span>

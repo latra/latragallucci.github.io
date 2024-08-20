@@ -189,11 +189,10 @@ h2 {
   padding-left: 10px;
 }
 .project-url {
-  text-align: right;
+  margin: 1px 0;
+  text-align: left;
   font-size: 14px;
-  white-space: nowrap;
-  align-self: flex-start;
-  padding-left: 10px;
+  margin-right: 10px;
 }
 a {
   color: #000;
