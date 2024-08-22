@@ -16,6 +16,14 @@
         "link": "https://devpost.com/software/jobcall"
     },
     {
+        "name": "Interuniversity Cybersecurity Competition",
+        "event": "National Cyber League",
+        "date": "Nov 2019",
+        "challenge": "",
+        "description": "A nationwide cybersecurity competition organized by Civil Guard (Guardia Civil). Competed in team-based challenges focused on ethical hacking, cryptography, and digital forensics, aimed at developing and showcasing cybersecurity skills among students and young professionals across Spain.",
+        "link": ""
+    },
+    {
         "name": "HomeInMind",
         "event": "HackUPC 2019",
         "date": "Oct 2019",
